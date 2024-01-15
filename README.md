@@ -18,13 +18,13 @@ Abans d'executar PandaQ, assegura't de tenir les següents dependències instal�
 antlr4 -Dlanguage=Python3 -no-listener -visitor pandaQ.g4
 Aquesta comanda generarà els arxius Python necessaris per a la interpretació de la gramàtica.
 
-# Ejecución de PandaQ
+# Execució de PandaQ
 Un cop compilada la gramàtica, pots executar PandaQ amb la interfície Streamlit. Utilitza la següent comanda:
 
 streamlit run pandaQ.py
 Això iniciarà la interfície d'usuari en el teu navegador predeterminat.
 
-# Uso de PandaQ
+# Ús de PandaQ
 Consulta SQL a Pandas: Escriu consultes SQL a l'àrea de text proporcionada.
 Execució: Fes clic al botó "Executar Consulta" per processar la consulta i visualitzar els resultats.
 Exploració Interactiva: Utilitza les funcionalitats interactives de Streamlit per explorar i analitzar els resultats.
