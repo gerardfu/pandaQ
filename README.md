@@ -1,4 +1,5 @@
 # pandaQ
+Gerard Farré Uroz
 # Descripció
 PandaQ es una pràctica que implementa instruccions SQL amb Pandas para realizar consultas sobre taules. Aquesta implementació utilitza la gramàtica definida en el fitxer pandaQ.g4 y un script en Python pandaQ.py.
 
